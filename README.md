@@ -1,4 +1,4 @@
-# 🚀 Binance Futures Testnet Trading Bot
+# Binance Futures Testnet Trading Bot
 
 A lightweight, modular **CLI-based trading bot** built in Python to place orders on **Binance Futures Testnet (USDT-M)**.
 
@@ -42,8 +42,8 @@ trading_bot/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone <your-repo-link>
-cd trading_bot
+git clone https://github.com/ShivaReddy54/Binance-CLI.git
+cd training-bot
 ```
 
 ---
