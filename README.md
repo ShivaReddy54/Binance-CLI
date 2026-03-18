@@ -85,7 +85,7 @@ pip install -r requirements.txt
 Create `.env` file:
 
 ```bash
-cp .env.example .env
+cp .env .env
 ```
 
 Add your Binance Testnet credentials:
